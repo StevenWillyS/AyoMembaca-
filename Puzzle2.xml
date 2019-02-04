@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPuzzleQuestion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PuzzleQuestion>
+    <word>Bobi berlatih tinju</word>
+    <answer>
+      <string>tinju</string>
+      <string>karate</string>
+      <string>masak</string>
+      <string>makan</string>
+    </answer>
+    <missingWord>tinju</missingWord>
+    <img>Learning/Syllable/2. b=bobi berlatih tinju</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>Cicak mencari makan</word>
+    <answer>
+      <string>Cicak</string>
+      <string>Buaya</string>
+      <string>Kucing</string>
+      <string>Anjing</string>
+    </answer>
+    <missingWord>Cicak</missingWord>
+    <img>Learning/Syllable/3. c=cicak mencari makan</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>Cicak mencari makan</word>
+    <answer>
+      <string>minum</string>
+      <string>makan</string>
+      <string>toilet</string>
+      <string>rumah</string>
+    </answer>
+    <missingWord>makan</missingWord>
+    <img>Learning/Syllable/3. c=cicak mencari makan</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>Dini membeli balon</word>
+    <answer>
+      <string>bunga</string>
+      <string>tiket</string>
+      <string>balon</string>
+      <string>makan</string>
+    </answer>
+    <missingWord>balon</missingWord>
+    <img>Learning/Syllable/4. d=dini membeli balon</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>Dini membeli balon warna hijau</word>
+    <answer>
+      <string>hijau</string>
+      <string>merah</string>
+      <string>kuning</string>
+      <string>biru</string>
+    </answer>
+    <missingWord>hijau</missingWord>
+    <img>Learning/Syllable/4. d=dini membeli balon</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>Kapal feri sedang berlayar</word>
+    <answer>
+      <string>menyelam</string>
+      <string>terbang</string>
+      <string>memancing</string>
+      <string>berlayar</string>
+    </answer>
+    <missingWord>berlayar</missingWord>
+    <img>Learning/Syllable/6. f=kapal feri sedang berlayar</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>Kapal feri sedang berlayar</word>
+    <answer>
+      <string>Kapal selam</string>
+      <string>Pesawat</string>
+      <string>Roket</string>
+      <string>Kapal feri</string>
+    </answer>
+    <missingWord>Kapal feri</missingWord>
+    <img>Learning/Syllable/6. f=kapal feri sedang berlayar</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>Gerhana bulan di malam minggu</word>
+    <answer>
+      <string>bulan</string>
+      <string>bintang</string>
+      <string>matahari</string>
+      <string>satelit</string>
+    </answer>
+    <missingWord>bulan</missingWord>
+    <img>Learning/Syllable/7. g=gerhana bulan di malam minggu</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>Gerhana bulan di malam hari</word>
+    <answer>
+      <string>sore</string>
+      <string>pagi</string>
+      <string>siang</string>
+      <string>malam</string>
+    </answer>
+    <missingWord>malam</missingWord>
+    <img>Learning/Syllable/7. g=gerhana bulan di malam minggu</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>Kopi hangat milik ayah</word>
+    <answer>
+      <string>Nasi</string>
+      <string>Kentang</string>
+      <string>Kopi</string>
+      <string>Roti</string>
+    </answer>
+    <missingWord>Kopi</missingWord>
+    <img>Learning/Syllable/8. h=kopi hangat milik ayah</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>Jarum benang milik ibu</word>
+    <answer>
+      <string>Sapu</string>
+      <string>Tali</string>
+      <string>Gunting</string>
+      <string>Jarum</string>
+    </answer>
+    <missingWord>Jarum</missingWord>
+    <img>Learning/Syllable/10. j=jarum benang milik ibu</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>Kereta api jaman belanda</word>
+    <answer>
+      <string>Mobil</string>
+      <string>Kereta api</string>
+      <string>Kapal</string>
+      <string>Pesawat</string>
+    </answer>
+    <missingWord>Kereta api</missingWord>
+    <img>Learning/Syllable/11. k=kereta api jaman belanda</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>Sarang lebah madu</word>
+    <answer>
+      <string>lebah</string>
+      <string>beruang</string>
+      <string>kucing</string>
+      <string>anjing</string>
+    </answer>
+    <missingWord>lebah</missingWord>
+    <img>Learning/Syllable/12. l=sarang lebah madu</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>Mobil baru ayah</word>
+    <answer>
+      <string>Mobil</string>
+      <string>Kereta api</string>
+      <string>Kapal</string>
+      <string>Pesawat</string>
+    </answer>
+    <missingWord>Mobil</missingWord>
+    <img>Learning/Syllable/13. m=mobil baru ayah</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>Makan nasi menggunakan sumpit</word>
+    <answer>
+      <string>roti</string>
+      <string>nasi</string>
+      <string>daging</string>
+      <string>ayam</string>
+    </answer>
+    <missingWord>nasi</missingWord>
+    <img>Learning/Syllable/14. orang jepang memakan NAsi menggunakan garpu</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>Makan nasi menggunakan sumpit</word>
+    <answer>
+      <string>sumpit</string>
+      <string>sendok</string>
+      <string>garpu</string>
+      <string>tangan</string>
+    </answer>
+    <missingWord>sumpit</missingWord>
+    <img>Learning/Syllable/14. orang jepang memakan NAsi menggunakan garpu</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>Memaku menggunakan palu</word>
+    <answer>
+      <string>gergaji</string>
+      <string>obeng</string>
+      <string>kunci</string>
+      <string>palu</string>
+    </answer>
+    <missingWord>palu</missingWord>
+    <img>Learning/Syllable/16. memaku menggunakan PAlu</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>Pak Qori memakai topi</word>
+    <answer>
+      <string>topi</string>
+      <string>sandal</string>
+      <string>sepatu</string>
+      <string>dasi</string>
+    </answer>
+    <missingWord>topi</missingWord>
+    <img>Learning/Syllable/17. pak QOri memakai topi</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>Rumah Budi</word>
+    <answer>
+      <string>Pesawat</string>
+      <string>Kamar</string>
+      <string>Rumah</string>
+      <string>Mobil</string>
+    </answer>
+    <missingWord>Rumah</missingWord>
+    <img>Learning/Syllable/18. RUmah budi</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>Sapi makan rumput</word>
+    <answer>
+      <string>Sapi</string>
+      <string>Kambing</string>
+      <string>Domba</string>
+      <string>Singa</string>
+    </answer>
+    <missingWord>Sapi</missingWord>
+    <img>Learning/Syllable/19. SApi makan rumput</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>Sapi makan rumput</word>
+    <answer>
+      <string>nasi</string>
+      <string>rumput</string>
+      <string>sate</string>
+      <string>soto</string>
+    </answer>
+    <missingWord>rumput</missingWord>
+    <img>Learning/Syllable/19. SApi makan rumput</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>Andi memakai topeng</word>
+    <answer>
+      <string>topi</string>
+      <string>topeng</string>
+      <string>kacamata</string>
+      <string>masker</string>
+    </answer>
+    <missingWord>topeng</missingWord>
+    <img>Learning/Syllable/20. andi memakai TOpeng</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>Es krim rasa vanila</word>
+    <answer>
+      <string>Es krim</string>
+      <string>Puding</string>
+      <string>Kue</string>
+      <string>Buah</string>
+    </answer>
+    <missingWord>Es krim</missingWord>
+    <img>Learning/Syllable/22. es krim rasa VAnila</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>Es krim rasa vanila</word>
+    <answer>
+      <string>vanila</string>
+      <string>cokelat</string>
+      <string>durian</string>
+      <string>stroberi</string>
+    </answer>
+    <missingWord>vanila</missingWord>
+    <img>Learning/Syllable/22. es krim rasa VAnila</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>Jam weker menunjukkan pukul 5.35</word>
+    <answer>
+      <string>Jam weker</string>
+      <string>Komputer</string>
+      <string>Telepon</string>
+      <string>Laptop</string>
+    </answer>
+    <missingWord>Jam weker</missingWord>
+    <img>Learning/Syllable/23. jam WEker menunjukan pukul 5.35</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>Xavi bermain bola</word>
+    <answer>
+      <string>basket</string>
+      <string>kasti</string>
+      <string>bola</string>
+      <string>kelereng</string>
+    </answer>
+    <missingWord>bola</missingWord>
+    <img>Learning/Syllable/24. XAvi bermain bola</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>Roni memainkan yoyo</word>
+    <answer>
+      <string>kelereng</string>
+      <string>yoyo</string>
+      <string>bola</string>
+      <string>basket</string>
+    </answer>
+    <missingWord>yoyo</missingWord>
+    <img>Learning/Syllable/25. roni memainkan YOyo</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>Kehidupan di zaman es</word>
+    <answer>
+      <string>es</string>
+      <string>batu</string>
+      <string>kayu</string>
+      <string>sekarang</string>
+    </answer>
+    <missingWord>es</missingWord>
+    <img>Learning/Syllable/26. mammoth tinggal di ZAman es</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>Ikan sedang berenang</word>
+    <answer>
+      <string>Ikan</string>
+      <string>Burung</string>
+      <string>Tikus</string>
+      <string>Ular</string>
+    </answer>
+    <missingWord>Ikan</missingWord>
+    <img>Learning/ABC/ikan</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>Ikan sedang berenang</word>
+    <answer>
+      <string>berenang</string>
+      <string>berlari</string>
+      <string>berjalan</string>
+      <string>tidur</string>
+    </answer>
+    <missingWord>berenang</missingWord>
+    <img>Learning/ABC/ikan</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>Saya suka apel</word>
+    <answer>
+      <string>rambutan</string>
+      <string>mangga</string>
+      <string>apel</string>
+      <string>durian</string>
+    </answer>
+    <missingWord>apel</missingWord>
+    <img>Learning/ABC/apel</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+</ArrayOfPuzzleQuestion>

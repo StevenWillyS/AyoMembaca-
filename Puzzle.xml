@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPuzzleQuestion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PuzzleQuestion>
+    <word>A P E L</word>
+    <answer>
+      <string>A </string>
+      <string>E </string>
+      <string>U </string>
+      <string>I </string>
+    </answer>
+    <missingWord>A </missingWord>
+    <img>Learning/ABC/apel</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>A P E L </word>
+    <answer>
+      <string>P E L</string>
+      <string>B E L</string>
+      <string>D O H</string>
+      <string>L A K</string>
+    </answer>
+    <missingWord>P E L </missingWord>
+    <img>Learning/ABC/apel</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>B O L A</word>
+    <answer>
+      <string>K U </string>
+      <string>B A </string>
+      <string>B O </string>
+      <string>G U </string>
+    </answer>
+    <missingWord>B O </missingWord>
+    <img>Learning/ABC/bola</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>C E R I</word>
+    <answer>
+      <string>D E </string>
+      <string>D A  </string>
+      <string>C E </string>
+      <string>R I </string>
+    </answer>
+    <missingWord>C E </missingWord>
+    <img>Learning/ABC/ceri</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>D O M B A</word>
+    <answer>
+      <string>D O M </string>
+      <string>B A M </string>
+      <string>D A  M </string>
+      <string>T A M </string>
+    </answer>
+    <missingWord>D O M </missingWord>
+    <img>Learning/ABC/domba</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>E L A N G</word>
+    <answer>
+      <string>E </string>
+      <string>A </string>
+      <string>O </string>
+      <string>U </string>
+    </answer>
+    <missingWord>E </missingWord>
+    <img>Learning/ABC/elang</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>F O T O</word>
+    <answer>
+      <string>D O </string>
+      <string>F A </string>
+      <string>F O </string>
+      <string>T A </string>
+    </answer>
+    <missingWord>F O </missingWord>
+    <img>Learning/ABC/foto</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>G A J A H</word>
+    <answer>
+      <string>D O </string>
+      <string>B A </string>
+      <string>D A </string>
+      <string>G A </string>
+    </answer>
+    <missingWord>G A </missingWord>
+    <img>Learning/ABC/gajah</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>H A R I M A U</word>
+    <answer>
+      <string>R I </string>
+      <string>B A </string>
+      <string>H A </string>
+      <string>T A </string>
+    </answer>
+    <missingWord>H A </missingWord>
+    <img>Learning/ABC/harimau</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>I K A N</word>
+    <answer>
+      <string>E </string>
+      <string>A </string>
+      <string>O </string>
+      <string>I </string>
+    </answer>
+    <missingWord>I </missingWord>
+    <img>Learning/ABC/ikan</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>J E R A P A H</word>
+    <answer>
+      <string>R A </string>
+      <string>J A </string>
+      <string>R O </string>
+      <string>J I </string>
+    </answer>
+    <missingWord>R A </missingWord>
+    <img>Learning/ABC/jerapah</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>K A N C I N G</word>
+    <answer>
+      <string>K A N </string>
+      <string>P A N </string>
+      <string>K O R </string>
+      <string>R U N </string>
+    </answer>
+    <missingWord>K A N </missingWord>
+    <img>Learning/ABC/kancing</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>L A M P U </word>
+    <answer>
+      <string>P A </string>
+      <string>D A </string>
+      <string>P U </string>
+      <string>D U </string>
+    </answer>
+    <missingWord>P U </missingWord>
+    <img>Learning/ABC/lampu</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>N A S I</word>
+    <answer>
+      <string>D A </string>
+      <string>K A </string>
+      <string>R O </string>
+      <string>N A </string>
+    </answer>
+    <missingWord>N A </missingWord>
+    <img>Learning/ABC/Nasi</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>O B A T</word>
+    <answer>
+      <string>B A </string>
+      <string>J A </string>
+      <string>R A </string>
+      <string>J I </string>
+    </answer>
+    <missingWord>B A </missingWord>
+    <img>Learning/ABC/Obat</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>P E N S I L</word>
+    <answer>
+      <string>P E </string>
+      <string>P I </string>
+      <string>P O </string>
+      <string>P U </string>
+    </answer>
+    <missingWord>P E </missingWord>
+    <img>Learning/ABC/Pensil</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>Q U R A N</word>
+    <answer>
+      <string>B A </string>
+      <string>R U </string>
+      <string>R A </string>
+      <string>B I </string>
+    </answer>
+    <missingWord>R A </missingWord>
+    <img>Learning/ABC/quran</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>R O T I</word>
+    <answer>
+      <string>F O </string>
+      <string>R O </string>
+      <string>J A </string>
+      <string>T U </string>
+    </answer>
+    <missingWord>R O </missingWord>
+    <img>Learning/ABC/Roti</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>S E N D O K</word>
+    <answer>
+      <string>E </string>
+      <string>A </string>
+      <string>O </string>
+      <string>I </string>
+    </answer>
+    <missingWord>E </missingWord>
+    <img>Learning/ABC/Sendok</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>T O P I </word>
+    <answer>
+      <string>P A </string>
+      <string>P U </string>
+      <string>P O </string>
+      <string>P I </string>
+    </answer>
+    <missingWord>P I </missingWord>
+    <img>Learning/ABC/Topi</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>U A N G</word>
+    <answer>
+      <string>E </string>
+      <string>U </string>
+      <string>O </string>
+      <string>I </string>
+    </answer>
+    <missingWord>U </missingWord>
+    <img>Learning/ABC/Uang</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>V E S P A </word>
+    <answer>
+      <string>P E </string>
+      <string>Y A </string>
+      <string>P O </string>
+      <string>P A </string>
+    </answer>
+    <missingWord>P A </missingWord>
+    <img>Learning/ABC/Vespa</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>W E K E R</word>
+    <answer>
+      <string>W E </string>
+      <string>W A </string>
+      <string>W O </string>
+      <string>W I </string>
+    </answer>
+    <missingWord>W E </missingWord>
+    <img>Learning/ABC/Weker</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>X - R A Y </word>
+    <answer>
+      <string>G U Y </string>
+      <string>D A N </string>
+      <string>T O P </string>
+      <string>R A Y </string>
+    </answer>
+    <missingWord>R A Y </missingWord>
+    <img>Learning/ABC/X-Ray</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>Y O Y O</word>
+    <answer>
+      <string>Y E </string>
+      <string>Y A </string>
+      <string>Y O </string>
+      <string>Y I </string>
+    </answer>
+    <missingWord>Y O </missingWord>
+    <img>Learning/ABC/Yoyo</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+  <PuzzleQuestion>
+    <word>Z E B R A</word>
+    <answer>
+      <string>Z E B </string>
+      <string>Z A B </string>
+      <string>Z O B </string>
+      <string>Z I B </string>
+    </answer>
+    <missingWord>Z E B </missingWord>
+    <img>Learning/ABC/Zebra</img>
+    <asked>false</asked>
+  </PuzzleQuestion>
+</ArrayOfPuzzleQuestion>
